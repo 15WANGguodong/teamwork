@@ -85,7 +85,7 @@
   <br/>房间信息折叠前<br/>
  <img src="/RailsChat-master/lib/unfoldroominfo.png" width="700">
  <br/>房间信息折叠后<br/>
- <img src=/RailsChat-master/lib/foldroominfo.png" width="700">
+ <img src="/RailsChat-master/lib/foldroominfo.png" width="700">
  
  
 <br/>对初始项目更改内容<br/>
