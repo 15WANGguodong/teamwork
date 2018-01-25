@@ -88,7 +88,7 @@
  <img src="/RailsChat-master/lib/foldroominfo.png" width="700">
  
  
-<br/>对初始项目更改内容<br/>
+<br/><h1>2018.1.8首次答辩对初始项目更改内容</h1><br/>
 <img src="/RailsChat-master/lib/1.png" width="700">
 <img src="/RailsChat-master/lib/2-0.png" width="700">
 <img src="/RailsChat-master/lib/2-1.png" width="700">
