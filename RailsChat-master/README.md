@@ -68,49 +68,49 @@
 ## 老师指导答辩后修改
 1.初版登陆界面和主导航栏英文统一成中文
  <br/>登录前<br/>
- <img src="/RailsChat-master/RailsChat-master/lib/homeChinese.png" width="700">
+ <img src="/RailsChat-master/lib/homeChinese.png" width="700">
  <br/>登录后<br/>
- <img src="/RailsChat-master/RailsChat-master/lib/loginhomeChinese.png" width="700">
+ <img src="/RailsChat-master/lib/loginhomeChinese.png" width="700">
  <br/>2.个人信息更改<br/>
  <br/>个人中心更该前<br/>
- <img src="/RailsChat-master/RailsChat-master/lib/10-1.png" width="700">
+ <img src="/RailsChat-master/lib/10-1.png" width="700">
  <br/>个人中心更该后<br/>
- <img src="/RailsChat-master/RailsChat-master/lib/centerInfo.png" width="700">
+ <img src="/RailsChat-master/lib/centerInfo.png" width="700">
  <br/>3.通讯录更改<br/>
   <br/>通讯录更改前<br/>
- <img src="/RailsChat-master/RailsChat-master/lib/5-0.png" width="700">
+ <img src="/RailsChat-master/lib/5-0.png" width="700">
  <br/>通讯录更改后<br/>
- <img src="/RailsChat-master/RailsChat-master/lib/friend.png" width="700">
+ <img src="/RailsChat-master/lib/friend.png" width="700">
  <br/>4.房间信息折叠更改<br/>
   <br/>房间信息折叠前<br/>
- <img src="/RailsChat-master/RailsChat-master/lib/unfoldroominfo.png" width="700">
+ <img src="/RailsChat-master/lib/unfoldroominfo.png" width="700">
  <br/>房间信息折叠后<br/>
- <img src="/RailsChat-master/RailsChat-master/lib/foldroominfo.png" width="700">
+ <img src=/RailsChat-master/lib/foldroominfo.png" width="700">
  
  
 <br/>对初始项目更改内容<br/>
-<img src="/RailsChat-master/RailsChat-master/lib/1.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/2-0.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/2-1.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/3-0.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/3-1.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/4-0.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/4-1.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/4-3.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/5-0.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/5-1.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/6-0.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/6-1.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/7-0.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/7-1.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/8-0.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/8-1.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/9-0.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/9-1.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/10-0.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/10-1.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/11-0.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/11-1.png" width="700">
-<img src="/RailsChat-master/RailsChat-master/lib/11-3.png" width="700">
+<img src="/RailsChat-master/lib/1.png" width="700">
+<img src="/RailsChat-master/lib/2-0.png" width="700">
+<img src="/RailsChat-master/lib/2-1.png" width="700">
+<img src="/RailsChat-master/lib/3-0.png" width="700">
+<img src="/RailsChat-master/lib/3-1.png" width="700">
+<img src="/RailsChat-master/lib/4-0.png" width="700">
+<img src="/RailsChat-master/lib/4-1.png" width="700">
+<img src="/RailsChat-master/lib/4-3.png" width="700">
+<img src="/RailsChat-master/lib/5-0.png" width="700">
+<img src="/RailsChat-master/lib/5-1.png" width="700">
+<img src="/RailsChat-master/lib/6-0.png" width="700">
+<img src="/RailsChat-master/lib/6-1.png" width="700">
+<img src="/RailsChat-master/lib/7-0.png" width="700">
+<img src="/RailsChat-master/lib/7-1.png" width="700">
+<img src="/RailsChat-master/lib/8-0.png" width="700">
+<img src="/RailsChat-master/lib/8-1.png" width="700">
+<img src="/RailsChat-master/lib/9-0.png" width="700">
+<img src="/RailsChat-master/lib/9-1.png" width="700">
+<img src="/RailsChat-master/lib/10-0.png" width="700">
+<img src="/RailsChat-master/lib/10-1.png" width="700">
+<img src="/RailsChat-master/lib/11-0.png" width="700">
+<img src="/RailsChat-master/lib/11-1.png" width="700">
+<img src="/RailsChat-master/lib/11-3.png" width="700">
 
  
