@@ -1,4 +1,4 @@
-项目部署
+### 项目部署
 1. Fork项目
 
   ```
@@ -72,9 +72,9 @@
  <br/>登录后<br/>
  <img src="/RailsChat-master/lib/loginhomeChinese.png" width="700">
  <br/>2.个人信息更改<br/>
- <br/>个人中心更该前<br/>
+ <br/>个人中心更改前<br/>
  <img src="/RailsChat-master/lib/10-1.png" width="700">
- <br/>个人中心更该后<br/>
+ <br/>个人中心更改后<br/>
  <img src="/RailsChat-master/lib/centerInfo.png" width="700">
  <br/>3.通讯录更改<br/>
   <br/>通讯录更改前<br/>
@@ -88,7 +88,7 @@
  <img src="/RailsChat-master/lib/foldroominfo.png" width="700">
  
  
-<br/><h1>2018.1.8首次答辩对初始项目更改内容</h1><br/>
+### 2018.1.8首次答辩对初始项目更改内容
 <img src="/RailsChat-master/lib/1.png" width="700">
 <img src="/RailsChat-master/lib/2-0.png" width="700">
 <img src="/RailsChat-master/lib/2-1.png" width="700">
